@@ -1,0 +1,21 @@
+{
+  "nome": "Centro de Criciúma",
+  "referencia": "Praça Nereu Ramos",
+  "centro": {
+    "latitude": -28.6779947,
+    "longitude": -49.3694314,
+    "osm_type": "way",
+    "osm_id": 165773276,
+    "fonte": "https://www.openstreetmap.org/way/165773276",
+    "metodo": "Ponto retornado pelo Nominatim para Praça Nereu Ramos, Centro, Criciúma, Santa Catarina, Brasil"
+  },
+  "tiles": 1024,
+  "tiles_por_celula": 256,
+  "metros_por_tile": 1.5,
+  "crs_metrico": "EPSG:32722",
+  "largura_minima_rua_tiles": 8,
+  "largura_minima_caminho_tiles": 2,
+  "margem_consulta_m": 80,
+  "build_alvo": "42.22",
+  "overpass_url": "https://overpass-api.de/api"
+}

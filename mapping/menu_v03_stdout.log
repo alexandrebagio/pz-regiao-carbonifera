@@ -1,0 +1,219 @@
+LOG  : General      f:0> 25-11-2026 14:22:34
+LOG  : General      f:0> SLF4J(I): Attempting to load provider "zombie.core.logger.Slf4jBridge" specified via "slf4j.provider" system property
+LOG  : General      f:0> ===== System specs =====
+LOG  : General      f:0> CPU: 13th Gen Intel(R) Core(TM) i7-1355U, vendor: GenuineIntel, cores: 10, threads: 12
+LOG  : General      f:0> RAM: 32453 Mb
+LOG  : General      f:0> Base board: 0N9K15, vendor: Dell Inc.
+LOG  : General      f:0> GPU: Intel(R) Iris(R) Xe Graphics, vendor: Intel Corporation, video memory: 2048 Mb, driver: 32.0.101.7088
+LOG  : General      f:0> Disk info: 474.02 Gb, free space: 112.75 Gb, usable space: 112.75 Gb
+LOG  : General      f:0> OS: Windows 11, version: 10.0, arch: amd64, build: 26300
+LOG  : General      f:0> JVM (free: 393 Mb, max: 2048 Mb, total available: 510 Mb)
+LOG  : General      f:0> ========================
+LOG  : General      f:0> java.specification.version=25
+LOG  : General      f:0> sun.cpu.isalist=amd64
+LOG  : General      f:0> sun.jnu.encoding=Cp1252
+LOG  : General      f:0> java.vm.vendor=Azul Systems, Inc.
+LOG  : General      f:0> sun.arch.data.model=64
+LOG  : General      f:0> java.vendor.url=http://www.azul.com/
+LOG  : General      f:0> zomboid.steam=0
+LOG  : General      f:0> java.vm.specification.version=25
+LOG  : General      f:0> os.name=Windows 11
+LOG  : General      f:0> sun.java.launcher=SUN_STANDARD
+LOG  : General      f:0> sun.java.command=zombie.gameStates.MainScreenState -no...
+LOG  : General      f:0> slf4j.provider=zombie.core.logger.Slf4jBridge
+LOG  : General      f:0> jdk.debug=release
+LOG  : General      f:0> sun.cpu.endian=little
+LOG  : General      f:0> java.specification.vendor=Oracle Corporation
+LOG  : General      f:0> java.version.date=2026-10-20
+LOG  : General      f:0> java.home=C:\Program Files (x86)\Steam\steamapp...
+LOG  : General      f:0> file.separator=\
+LOG  : General      f:0> java.vm.compressedOopsMode=32-bit
+LOG  : General      f:0> line.separator=
+
+LOG  : General      f:0> java.vm.specification.vendor=Oracle Corporation
+LOG  : General      f:0> java.specification.name=Java Platform API Specification
+LOG  : General      f:0> java.awt.headless=true
+LOG  : General      f:0> sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+LOG  : General      f:0> java.runtime.version=25.0.5+8-LTS
+LOG  : General      f:0> stdout.encoding=Cp1252
+LOG  : General      f:0> os.version=10.0
+LOG  : General      f:0> jna.nosys=false
+LOG  : General      f:0> java.runtime.name=OpenJDK Runtime Environment
+LOG  : General      f:0> file.encoding=UTF-8
+LOG  : General      f:0> java.vm.name=OpenJDK 64-Bit Server VM
+LOG  : General      f:0> java.vendor.version=Zulu25.38+107-CA
+LOG  : General      f:0> jna.loaded=true
+LOG  : General      f:0> java.vendor.url.bug=http://www.azul.com/support/
+LOG  : General      f:0> java.version=25.0.5
+LOG  : General      f:0> os.arch=amd64
+LOG  : General      f:0> java.vm.specification.name=Java Virtual Machine Specification
+LOG  : General      f:0> sun.os.patch.level=
+LOG  : General      f:0> native.encoding=Cp1252
+LOG  : General      f:0> java.vm.info=mixed mode, sharing
+LOG  : General      f:0> stderr.encoding=Cp1252
+LOG  : General      f:0> java.vendor=Azul Systems, Inc.
+LOG  : General      f:0> java.vm.version=25.0.5+8-LTS
+LOG  : General      f:0> stdin.encoding=Cp1252
+LOG  : General      f:0> sun.io.unicode.encoding=UnicodeLittle
+LOG  : General      f:0> java.class.version=69.0
+LOG  : General      f:0> -----
+LOG  : General      f:0> version=42.22.2 3d39148846 integrity=pending demo=false
+LOG  : General      f:0> revision=3d39148846 pzbullet=1.0.0.28
+LOG  : General      f:0> You can setup the log levels in the debuglog.cfg file
+LOG  : General      f:0> Logs configuration:
+LOG  : General      f:0>      General: General
+LOG  : General      f:0>      Network: General
+LOG  : General      f:0>          Lua: General
+LOG  : General      f:0>          Mod: General
+LOG  : General      f:0>  Multiplayer: General
+LOG  : General      f:0> ClientCommand: General
+LOG  : General      f:0>      Default: Off
+LOG  : General      f:0> LightingFPS set to 15
+LOG  : General      f:0> Display mode changed to 1280x720 freq=0 fullScreen=false
+LOG  : General      f:0> GraphicsCard: Intel Intel(R) Iris(R) Xe Graphics
+LOG  : General      f:0> OpenGL version: 4.6.0 - Build 32.0.101.7088
+LOG  : General      f:0> Desktop resolution 1920x1080
+LOG  : General      f:0> Initial resolution 1280x720 fullScreen=false
+LOG  : General      f:0> OpenGL 1.5 buffer objects supported
+LOG  : General      f:0> VSync: OFF
+LOG  : General      f:0> version=42.22.2 3d39148846 demo=false
+LOG  : General      f:0> revision=3d39148846 pzbullet=1.0.0.28
+ERROR: General      f:0 at AngelCodeFont.parseFnt              > AngelCodeFont failed to load page 0 texture C:/Program Files (x86)/Steam/steamapps/common/ProjectZomboid/media/mainfont_0.png
+ERROR: General      f:0 at AngelCodeFont.parseFnt              > AngelCodeFont failed to load page 0 texture C:/Program Files (x86)/Steam/steamapps/common/ProjectZomboid/media/mainfont2_0.png
+ERROR: General      f:0 at AngelCodeFont.parseFnt              > AngelCodeFont failed to load page 0 texture C:/Program Files (x86)/Steam/steamapps/common/ProjectZomboid/media/fonts/zomboidDialogue.bmfc_0.png
+LOG  : General      f:0> Loading networking libraries...
+LOG  : General      f:0> Loading RakNet64...
+LOG  : General      f:0> Loading ZNetNoSteam64...
+LOG  : General      f:0> SteamUtils started without Steam
+LOG  : General      f:0> Loading Mods
+LOG  : General      f:0> Loading Translations
+ERROR: General      f:0 at AngelCodeFont.parseFnt              > AngelCodeFont failed to load page 0 texture C:/Program Files (x86)/Steam/steamapps/common/ProjectZomboid/media/mainfont_0.png
+ERROR: General      f:0 at AngelCodeFont.parseFnt              > AngelCodeFont failed to load page 0 texture C:/Program Files (x86)/Steam/steamapps/common/ProjectZomboid/media/mainfont2_0.png
+ERROR: General      f:0 at AngelCodeFont.parseFnt              > AngelCodeFont failed to load page 0 texture C:/Program Files (x86)/Steam/steamapps/common/ProjectZomboid/media/fonts/zomboidDialogue.bmfc_0.png
+LOG  : General      f:0> texturepack: loading UI
+LOG  : General      f:0> Carregando pacote de texturas UI
+LOG  : General      f:0> texturepack: loading UI2
+LOG  : General      f:0> Carregando pacote de texturas UI2
+LOG  : General      f:0> texturepack: loading IconsMoveables
+LOG  : General      f:0> Carregando pacote de texturas IconsMoveables
+LOG  : General      f:0> texturepack: loading RadioIcons
+LOG  : General      f:0> Carregando pacote de texturas RadioIcons
+LOG  : General      f:0> texturepack: loading ApComUI
+LOG  : General      f:0> Carregando pacote de texturas ApComUI
+LOG  : General      f:0> texturepack: loading Mechanics
+LOG  : General      f:0> Carregando pacote de texturas Mechanics
+LOG  : General      f:0> texturepack: loading WeatherFx
+LOG  : General      f:0> Carregando pacote de texturas WeatherFx
+LOG  : General      f:0> Carregando Scripts
+ERROR: General      f:0 at FluidContainerScript.load           > Sanitizing container name 'Large Bucket', name may not contain whitespaces.
+ERROR: General      f:0 at FluidContainerScript.load           > Sanitizing container name 'Fuel Pump', name may not contain whitespaces.
+WARN : General      f:0 at XuiSkin$EntityUiStyle.Load          > Could not find icon: Build_AnvilStone, script = Bigorna de Pedra
+WARN : General      f:0 at XuiSkin$EntityUiStyle.LoadComponentInfo> Could not find icon: Build_AnvilStone
+WARN : General      f:0 at XuiSkin$EntityUiStyle.Load          > Could not find icon: Build_AnvilStone, script = Bigorna de Pedra
+WARN : General      f:0 at XuiSkin$EntityUiStyle.LoadComponentInfo> Could not find icon: Build_AnvilStone
+WARN : General      f:0 at XuiSkin$EntityUiStyle.Load          > Could not find icon: Build_AnvilStone, script = Bigorna de Pedra
+WARN : General      f:0 at XuiSkin$EntityUiStyle.LoadComponentInfo> Could not find icon: Build_AnvilStone
+WARN : General      f:0 at XuiSkin$EntityUiStyle.Load          > Could not find icon: Build_AnvilStone, script = Bigorna de Pedra
+WARN : General      f:0 at XuiSkin$EntityUiStyle.LoadComponentInfo> Could not find icon: Build_AnvilStone
+WARN : General      f:0 at TaggedObjectManager.createTagBits   > manager-> new tag discovered that was not preprocessed, tag: keyduplicator
+WARN : General      f:0 at TaggedObjectManager.createTagBits   > manager-> new tag discovered that was not preprocessed, tag: choppingblock
+LOG  : General      f:0> Carregando Roupas
+LOG  : General      f:0> 
+LOG  : General      f:0> Carregando Lua
+WARN : Lua          f:0 at Lua(Vanilla).corpseStorageCheck     > require("ISUI/ISInventoryPaneContextMenu") failed
+WARN : Lua          f:0 at Lua(Vanilla).corpseStorageCheck     > require("ISUI/ISVehicleMenu") failed
+WARN : Lua          f:0 at Lua(Vanilla).corpseStorageCheck     > require("ISUI/ISContextMenu") failed
+WARN : Lua          f:0 at Lua(Vanilla).ISCampingMenu          > require("Camping/CCampfireSystem") failed
+WARN : Lua          f:0 at Lua(Vanilla).ISInventoryTransferUtil> require("TimedActions/ISInventoryTransferAction") failed
+WARN : Lua          f:0 at Lua(Vanilla).ISInventoryTransferUtil> require("ISUI/PlayerData/ISPlayerData") failed
+WARN : Lua          f:0 at Lua(Vanilla).ISAnimalContextMenu    > require("BuildingObjects/ISAnimalPickMateCursor") failed
+WARN : Lua          f:0 at Lua(Vanilla).TakeSameType           > require("ISUI/InventoryWindow/ISLootWindowControlHandler") failed
+WARN : Lua          f:0 at Lua(Vanilla).FloorTakeSameType      > require("ISUI/InventoryWindow/ISLootWindowControlHandler") failed
+WARN : Lua          f:0 at Lua(Vanilla).testUI                 > require("pzapi/ui/ui") failed
+LOG  : Lua          f:0> OnLoadSoundbanks
+LOG  : General      f:0> texturepack: loading Tiles2x
+LOG  : General      f:0> Carregando pacote de texturas Tiles2x
+LOG  : General      f:0> texturepack: loading Overlays2x
+LOG  : General      f:0> Carregando pacote de texturas Overlays2x
+LOG  : General      f:0> texturepack: loading JumboTrees2x
+LOG  : General      f:0> Carregando pacote de texturas JumboTrees2x
+LOG  : General      f:0> texturepack: loading JumboTreesBigs2x
+LOG  : General      f:0> Carregando pacote de texturas JumboTreesBigs2x
+LOG  : General      f:0> texturepack: loading Tiles2x.floor
+LOG  : General      f:0> Carregando pacote de texturas Tiles2x.floor
+LOG  : General      f:0> texturepack: loading B42ChunkCaching2x
+LOG  : General      f:0> Carregando pacote de texturas B42ChunkCaching2x
+LOG  : General      f:0> texturepack: loading B42ChunkCaching2x.floor
+LOG  : General      f:0> Carregando pacote de texturas B42ChunkCaching2x.floor
+LOG  : General      f:0> texturepack: loading Clock2x
+LOG  : General      f:0> Carregando pacote de texturas Clock2x
+LOG  : General      f:0> Carregando modelos e animações
+LOG  : General      f:0> Inicializando jogo
+LOG  : General      f:0> STATE: exit zombie.gameStates.TISLogoState
+LOG  : General      f:0> STATE: exit zombie.gameStates.TermsOfServiceState
+LOG  : General      f:0> binkId: 1
+WARN : Lua          f:0 at Lua(Vanilla).namedColorToTable      > env.lua-> namedColorToTable color not found: ProgressYellow
+LOG  : General      f:0> binkId: 2
+LOG  : General      f:0> binkId: 3
+LOG  : General      f:0> binkId: 4
+LOG  : Mod          f:0> loading RegiaoCarboniferaPrototipo
+ERROR: General      f:0 at FluidContainerScript.load           > Sanitizing container name 'Large Bucket', name may not contain whitespaces.
+ERROR: General      f:0 at FluidContainerScript.load           > Sanitizing container name 'Fuel Pump', name may not contain whitespaces.
+WARN : General      f:0 at XuiSkin$EntityUiStyle.Load          > Could not find icon: Build_AnvilStone, script = Bigorna de Pedra
+WARN : General      f:0 at XuiSkin$EntityUiStyle.LoadComponentInfo> Could not find icon: Build_AnvilStone
+WARN : General      f:0 at XuiSkin$EntityUiStyle.Load          > Could not find icon: Build_AnvilStone, script = Bigorna de Pedra
+WARN : General      f:0 at XuiSkin$EntityUiStyle.LoadComponentInfo> Could not find icon: Build_AnvilStone
+WARN : General      f:0 at XuiSkin$EntityUiStyle.Load          > Could not find icon: Build_AnvilStone, script = Bigorna de Pedra
+WARN : General      f:0 at XuiSkin$EntityUiStyle.LoadComponentInfo> Could not find icon: Build_AnvilStone
+WARN : General      f:0 at XuiSkin$EntityUiStyle.Load          > Could not find icon: Build_AnvilStone, script = Bigorna de Pedra
+WARN : General      f:0 at XuiSkin$EntityUiStyle.LoadComponentInfo> Could not find icon: Build_AnvilStone
+WARN : General      f:0 at TaggedObjectManager.createTagBits   > manager-> new tag discovered that was not preprocessed, tag: keyduplicator
+WARN : General      f:0 at TaggedObjectManager.createTagBits   > manager-> new tag discovered that was not preprocessed, tag: choppingblock
+ERROR: General      f:0 at AngelCodeFont.parseFnt              > AngelCodeFont failed to load page 0 texture C:/Program Files (x86)/Steam/steamapps/common/ProjectZomboid/media/fonts/zomboidDialogue.bmfc_0.png
+WARN : Lua          f:0 at Lua(Vanilla).corpseStorageCheck     > require("ISUI/ISInventoryPaneContextMenu") failed
+WARN : Lua          f:0 at Lua(Vanilla).corpseStorageCheck     > require("ISUI/ISVehicleMenu") failed
+WARN : Lua          f:0 at Lua(Vanilla).corpseStorageCheck     > require("ISUI/ISContextMenu") failed
+WARN : Lua          f:0 at Lua(Vanilla).ISCampingMenu          > require("Camping/CCampfireSystem") failed
+WARN : Lua          f:0 at Lua(Vanilla).ISInventoryTransferUtil> require("TimedActions/ISInventoryTransferAction") failed
+WARN : Lua          f:0 at Lua(Vanilla).ISInventoryTransferUtil> require("ISUI/PlayerData/ISPlayerData") failed
+WARN : Lua          f:0 at Lua(Vanilla).ISAnimalContextMenu    > require("BuildingObjects/ISAnimalPickMateCursor") failed
+WARN : Lua          f:0 at Lua(Vanilla).TakeSameType           > require("ISUI/InventoryWindow/ISLootWindowControlHandler") failed
+WARN : Lua          f:0 at Lua(Vanilla).FloorTakeSameType      > require("ISUI/InventoryWindow/ISLootWindowControlHandler") failed
+WARN : Lua          f:0 at Lua(Vanilla).testUI                 > require("pzapi/ui/ui") failed
+WARN : Lua          f:0 at Lua(Vanilla).namedColorToTable      > env.lua-> namedColorToTable color not found: ProgressYellow
+ERROR: General      f:0 at KahluaThread.flushErrorMessage      > dumping Lua stack trace
+-----------------------------------------
+STACK TRACE
+-----------------------------------------
+	Lua(Vanilla).initDefaultStyleV1(ISMapDefinitions.lua:165)
+	Lua((MOD:Criciuma - Prototipo Centro)).render(CRC_PreviewCriacao.lua:38)
+ERROR: General      f:0> Lua(Vanilla).initDefaultStyleV1> Exception thrown
+	java.lang.NegativeArraySizeException: -127246320 at WorldMapVisited.setBounds(WorldMapVisited.java:159).
+	Stack trace:
+		zombie.worldMap.WorldMapVisited.setBounds(WorldMapVisited.java:159)
+		zombie.worldMap.WorldMapVisited.getInstance(WorldMapVisited.java:995)
+		zombie.worldMap.UIWorldMapV1.setUnvisitedRGBA(UIWorldMapV1.java:358)
+		java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+		java.base/java.lang.reflect.Method.invoke(Unknown Source)
+		se.krka.kahlua.integration.expose.caller.MethodCaller.call(MethodCaller.java:58)
+		se.krka.kahlua.integration.expose.LuaJavaInvoker.call(LuaJavaInvoker.java:194)
+		se.krka.kahlua.integration.expose.LuaJavaInvoker.call(LuaJavaInvoker.java:184)
+		se.krka.kahlua.vm.KahluaThread.callJava(KahluaThread.java:178)
+		Lua(Vanilla).initDefaultStyleV1(ISMapDefinitions.lua:165)
+		Lua((MOD:Criciuma - Prototipo Centro)).render(CRC_PreviewCriacao.lua:38)
+		se.krka.kahlua.vm.KahluaThread.luaMainloop(KahluaThread.java:795)
+		se.krka.kahlua.vm.KahluaThread.call(KahluaThread.java:162)
+		se.krka.kahlua.vm.KahluaThread.pcall(KahluaThread.java:1740)
+		se.krka.kahlua.vm.KahluaThread.pcallvoid(KahluaThread.java:1584)
+		se.krka.kahlua.integration.LuaCaller.pcallvoid(LuaCaller.java:35)
+		zombie.ui.UIElement.render(UIElement.java:1711)
+		zombie.ui.UIElement.render(UIElement.java:1704)
+		zombie.ui.UIManager.render(UIManager.java:366)
+		zombie.gameStates.MainScreenState.render(MainScreenState.java:535)
+		zombie.gameStates.GameStateMachine.render(GameStateMachine.java:24)
+		zombie.GameWindow.renderInternal(GameWindow.java:459)
+		zombie.GameWindow.frameStep(GameWindow.java:801)
+		zombie.GameWindow.mainThreadStep(GameWindow.java:568)
+		zombie.MainThread.mainLoop(MainThread.java:69)
+		java.base/java.lang.Thread.run(Unknown Source)
+LOG  : Lua          f:0> [CRC] Previa da criacao: vetores locais, 25600,25600 a 26623,26623

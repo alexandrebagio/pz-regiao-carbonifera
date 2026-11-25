@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+data/raw/osmnx_cache/
+data/raw/logs/
+data/raw/pztools_source/
+mapping/worlded_conversao_pid.json
+mapping/diagnosticos/java/
+mapping/perfil_menu_v03/
+mapping/menu_v03_pid.json
+mapping/**/*.bak
+mod/**/media/maps/**

@@ -1,0 +1,34 @@
+﻿{
+    "tools_dir":  "C:\\pz\\PZTools\\43.00B261119d",
+    "tiles_dir":  "C:\\pz\\tilesheets_42.22",
+    "game_dir":  "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ProjectZomboid",
+    "tilesheets_png":  540,
+    "cores_terreno_aceitas":  5,
+    "regras_instaladas":  "C:\\pz\\PZTools\\43.00B261119d\\config\\Rules.txt",
+    "projects":  {
+                     "centro_criciuma.pzw":  "criado",
+                     "teste_uma_celula.pzw":  "criado"
+                 },
+    "nota":  "Versao inicial carregada pelo usuario. Revisao 0.2 instalada: asfalto escuro e worldmap; aguarda novo teste visual.",
+    "validacao_worlded":  {
+                              "projeto_completo":  "entradas BMP To TMX aprovadas pelo WorldEd (exit 0)",
+                              "uma_celula":  "entradas BMP To TMX aprovadas pelo WorldEd (exit 0)",
+                              "tilesheets_exigidas_prontas":  18,
+                              "referencias_catalogo_sem_imagem":  7,
+                              "logs":  [
+                                           "validacao_worlded_console.log",
+                                           "validacao_uma_celula_console.log"
+                                       ],
+                              "pendente":  [
+                                               "testar nascimento e caminhada dentro do jogo"
+                                           ]
+                          },
+    "conversao":  {
+                      "tmx":  5,
+                      "celulas_compiladas":  4,
+                      "problemas_exportacao":  0,
+                      "checagem_lot_sources":  "4 celulas aprovadas (exit 0)",
+                      "relatorio":  "validacao_conversao.json",
+                      "mod_instalado":  "C:\\Users\\alexa\\Zomboid\\mods\\RegiaoCarboniferaPrototipo"
+                  }
+}

@@ -1,0 +1,36 @@
+{
+  "mod_id": "RegiaoCarboniferaPrototipo",
+  "map_name": "CriciumaCentroTeste",
+  "origem_celulas": [
+    100,
+    100
+  ],
+  "dimensoes_celulas": [
+    2,
+    2
+  ],
+  "spawn_absoluto": [
+    25871,
+    25857,
+    0
+  ],
+  "spawn_local_tiles": [
+    271,
+    257
+  ],
+  "zombiespawn": "64x64 RGB preto; densidade exportada zero",
+  "biomemap": "red=0; green=115 terreno, 64 vias, 0 agua; blue=0",
+  "mod_origem": "C:\\pz-regiao-carbonifera\\mod\\RegiaoCarboniferaPrototipo",
+  "worldmap": {
+    "features_fonte": 67,
+    "cell_size": 256,
+    "validado_worlded": true,
+    "arquivos": [
+      "worldmap.xml",
+      "worldmap.xml.bin"
+    ]
+  },
+  "validacao_no_jogo": "Versão anterior apareceu no jogo; correção de asfalto/prévia pendente de novo teste.",
+  "arquivos_instalados": 31,
+  "mod_instalado": "C:\\Users\\alexa\\Zomboid\\mods\\RegiaoCarboniferaPrototipo"
+}

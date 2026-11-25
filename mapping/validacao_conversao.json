@@ -1,0 +1,233 @@
+{
+  "status": "ok",
+  "tmx": [
+    {
+      "arquivo": "mapping\\tmx\\centro\\terreno_0_0.tmx",
+      "camadas": 15,
+      "terreno_identico_ao_png": true
+    },
+    {
+      "arquivo": "mapping\\tmx\\centro\\terreno_1_0.tmx",
+      "camadas": 15,
+      "terreno_identico_ao_png": true
+    },
+    {
+      "arquivo": "mapping\\tmx\\centro\\terreno_2_0.tmx",
+      "camadas": 15,
+      "terreno_identico_ao_png": true
+    },
+    {
+      "arquivo": "mapping\\tmx\\centro\\terreno_3_0.tmx",
+      "camadas": 15,
+      "terreno_identico_ao_png": true
+    },
+    {
+      "arquivo": "mapping\\tmx\\centro\\terreno_0_1.tmx",
+      "camadas": 15,
+      "terreno_identico_ao_png": true
+    },
+    {
+      "arquivo": "mapping\\tmx\\centro\\terreno_1_1.tmx",
+      "camadas": 15,
+      "terreno_identico_ao_png": true
+    },
+    {
+      "arquivo": "mapping\\tmx\\centro\\terreno_2_1.tmx",
+      "camadas": 15,
+      "terreno_identico_ao_png": true
+    },
+    {
+      "arquivo": "mapping\\tmx\\centro\\terreno_3_1.tmx",
+      "camadas": 15,
+      "terreno_identico_ao_png": true
+    },
+    {
+      "arquivo": "mapping\\tmx\\centro\\terreno_0_2.tmx",
+      "camadas": 15,
+      "terreno_identico_ao_png": true
+    },
+    {
+      "arquivo": "mapping\\tmx\\centro\\terreno_1_2.tmx",
+      "camadas": 15,
+      "terreno_identico_ao_png": true
+    },
+    {
+      "arquivo": "mapping\\tmx\\centro\\terreno_2_2.tmx",
+      "camadas": 15,
+      "terreno_identico_ao_png": true
+    },
+    {
+      "arquivo": "mapping\\tmx\\centro\\terreno_3_2.tmx",
+      "camadas": 15,
+      "terreno_identico_ao_png": true
+    },
+    {
+      "arquivo": "mapping\\tmx\\centro\\terreno_0_3.tmx",
+      "camadas": 15,
+      "terreno_identico_ao_png": true
+    },
+    {
+      "arquivo": "mapping\\tmx\\centro\\terreno_1_3.tmx",
+      "camadas": 15,
+      "terreno_identico_ao_png": true
+    },
+    {
+      "arquivo": "mapping\\tmx\\centro\\terreno_2_3.tmx",
+      "camadas": 15,
+      "terreno_identico_ao_png": true
+    },
+    {
+      "arquivo": "mapping\\tmx\\centro\\terreno_3_3.tmx",
+      "camadas": 15,
+      "terreno_identico_ao_png": true
+    },
+    {
+      "arquivo": "mapping\\tmx\\teste\\centro_0_0_0_0.tmx",
+      "camadas": 15,
+      "terreno_identico_ao_png": true
+    }
+  ],
+  "lots": [
+    {
+      "celula": [
+        100,
+        100
+      ],
+      "chunks": 1024,
+      "quadrados_piso": 65536
+    },
+    {
+      "celula": [
+        101,
+        100
+      ],
+      "chunks": 1024,
+      "quadrados_piso": 65536
+    },
+    {
+      "celula": [
+        102,
+        100
+      ],
+      "chunks": 1024,
+      "quadrados_piso": 65536
+    },
+    {
+      "celula": [
+        103,
+        100
+      ],
+      "chunks": 1024,
+      "quadrados_piso": 65536
+    },
+    {
+      "celula": [
+        100,
+        101
+      ],
+      "chunks": 1024,
+      "quadrados_piso": 65536
+    },
+    {
+      "celula": [
+        101,
+        101
+      ],
+      "chunks": 1024,
+      "quadrados_piso": 65536
+    },
+    {
+      "celula": [
+        102,
+        101
+      ],
+      "chunks": 1024,
+      "quadrados_piso": 65536
+    },
+    {
+      "celula": [
+        103,
+        101
+      ],
+      "chunks": 1024,
+      "quadrados_piso": 65536
+    },
+    {
+      "celula": [
+        100,
+        102
+      ],
+      "chunks": 1024,
+      "quadrados_piso": 65536
+    },
+    {
+      "celula": [
+        101,
+        102
+      ],
+      "chunks": 1024,
+      "quadrados_piso": 65536
+    },
+    {
+      "celula": [
+        102,
+        102
+      ],
+      "chunks": 1024,
+      "quadrados_piso": 65536
+    },
+    {
+      "celula": [
+        103,
+        102
+      ],
+      "chunks": 1024,
+      "quadrados_piso": 65536
+    },
+    {
+      "celula": [
+        100,
+        103
+      ],
+      "chunks": 1024,
+      "quadrados_piso": 65536
+    },
+    {
+      "celula": [
+        101,
+        103
+      ],
+      "chunks": 1024,
+      "quadrados_piso": 65536
+    },
+    {
+      "celula": [
+        102,
+        103
+      ],
+      "chunks": 1024,
+      "quadrados_piso": 65536
+    },
+    {
+      "celula": [
+        103,
+        103
+      ],
+      "chunks": 1024,
+      "quadrados_piso": 65536
+    }
+  ],
+  "spawn": [
+    26140,
+    26115,
+    0
+  ],
+  "asfalto": "RGB 100/100/100; familia blends_street_01_80..95 confirmada nos binarios",
+  "worldmap": {
+    "celulas": 16,
+    "feicoes": 115,
+    "binario_IGMB": true
+  },
+  "arquivos_instalados_verificados": 92,
+  "limite": "v0.3: mapa ampliado e prévia da criação aguardam ensaio visual."
+}

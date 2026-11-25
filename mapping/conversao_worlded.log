@@ -1,0 +1,78 @@
+2026-11-25 11:34:48.796 [INFO] [pid:46792 thread:79b4] Logging to C:\pz\PZTools\43.00B261119d\settings\logs\PZWorldEd-20261125-113448-795-46792.log
+2026-11-25 11:34:48.796 [INFO] [pid:46792 thread:79b4] Installation root C:\pz\PZTools\43.00B261119d
+2026-11-25 11:34:48.796 [INFO] [pid:46792 thread:79b4] Application configuration C:\pz\PZTools\43.00B261119d\config
+2026-11-25 11:34:48.796 [INFO] [pid:46792 thread:79b4] Settings file C:\pz\PZTools\43.00B261119d\settings\TheIndieStone\PZWorldEd.ini
+2026-11-25 11:34:48.796 [INFO] [pid:46792 thread:79b4] Machine OS: Windows 10 Version 2009 | kernel: winnt 10.0.26300 | architecture: x86_64
+2026-11-25 11:34:48.798 [INFO] [pid:46792 thread:79b4] Machine CPU: 13th Gen Intel(R) Core(TM) i7-1355U | logical processors: 12
+2026-11-25 11:34:48.798 [INFO] [pid:46792 thread:79b4] Machine RAM: total 31.7 GiB | available at startup: 14.5 GiB
+2026-11-25 11:34:48.798 [INFO] [pid:46792 thread:79b4] Machine GPU/display adapters: Intel(R) Iris(R) Xe Graphics [active]
+2026-11-25 11:34:48.798 [INFO] [pid:46792 thread:79b4] Runtime: Qt 5.14.2 | Qt build ABI: x86_64-little_endian-llp64 | process: 64 bit
+2026-11-25 11:34:48.798 [INFO] [pid:46792 thread:79b4] Application Build 20261119d
+2026-11-25 11:34:48.826 [INFO] [pid:46792 thread:79b4] Effective shared configuration directory C:\pz\PZTools\43.00B261119d\config
+2026-11-25 11:34:48.826 [INFO] [pid:46792 thread:79b4] Effective Tiles directory C:\pz\tilesheets_42.22
+2026-11-25 11:34:48.826 [INFO] [pid:46792 thread:79b4] Effective Project Zomboid directory C:\Program Files (x86)\Steam\steamapps\common\ProjectZomboid
+2026-11-25 11:34:48.826 [INFO] [pid:46792 thread:79b4] Portable basement source directory C:\pz\PZTools\43.00B261119d\pzby_tbx\basement_access [available] TBX/TMX files: 147
+2026-11-25 11:34:48.827 [INFO] [pid:46792 thread:79b4] Portable basement PZBY directory C:\pz\PZTools\43.00B261119d\pzby_tbx\binmap [available] PZBY/TBX/TMX files: 356
+2026-11-25 11:34:49.670 [INFO] [pid:46792 thread:79b4] Map reader workers: 8 for 12 logical processors
+2026-11-25 11:34:49.672 [INFO] [pid:46792 thread:79b4] Tileset image loading: 8 workers
+2026-11-25 11:34:49.812 [INFO] [pid:46792 thread:79b4] Main-window geometry restored: true
+2026-11-25 11:34:49.827 [INFO] [pid:46792 thread:79b4] Main-window dock layout restored: true
+2026-11-25 11:34:49.831 [INFO] [pid:46792 thread:79b4] Startup main-window size: QSize(1920, 1080) requested, QSize(1920, 1032) available-screen fit
+2026-11-25 11:34:49.856 [INFO] [pid:46792 thread:79b4] Dock dimensions restored: left 336 right 200 left heights 449 449 right heights 581 338
+2026-11-25 11:34:49.866 [INFO] [pid:46792 thread:79b4] WorldEd interactive startup tasks begin
+2026-11-25 11:34:49.915 [INFO] [pid:46792 thread:79b4] Discovered new Tiles PNGs in memory: 2 (Tilesets.txt is unchanged; use the explicit Update Tilesets.txt command to persist them)
+2026-11-25 11:34:49.981 [DEBUG] [pid:46792 thread:79b4] TileDefWatcher read  "C:/Program Files (x86)/Steam/steamapps/common/ProjectZomboid/media/tile_definitions/newtiledefinitions.tiles"
+2026-11-25 11:34:50.072 [DEBUG] [pid:46792 thread:79b4] TileDefWatcher read  "C:/Program Files (x86)/Steam/steamapps/common/ProjectZomboid/media/tile_definitions/tiledefinitions_erosion.tiles"
+2026-11-25 11:34:50.074 [DEBUG] [pid:46792 thread:79b4] TileDefWatcher read  "C:/Program Files (x86)/Steam/steamapps/common/ProjectZomboid/media/tile_definitions/tiledefinitions_overlays.tiles"
+2026-11-25 11:34:50.076 [DEBUG] [pid:46792 thread:79b4] TileDefWatcher read  "C:/Program Files (x86)/Steam/steamapps/common/ProjectZomboid/media/tile_definitions/tiledefinitions_b42chunkcaching.tiles"
+2026-11-25 11:34:50.077 [DEBUG] [pid:46792 thread:79b4] TileDefWatcher read  "C:/Program Files (x86)/Steam/steamapps/common/ProjectZomboid/media/tile_definitions/tiledefinitions_noiseworks.patch.tiles"
+2026-11-25 11:34:50.086 [DEBUG] [pid:46792 thread:79b4] TileDefWatcher read  "C:/Program Files (x86)/Steam/steamapps/common/ProjectZomboid/media/tile_definitions/jumbo_trees_big.tiles"
+2026-11-25 11:34:50.088 [DEBUG] [pid:46792 thread:79b4] TileDefWatcher read  "C:/Program Files (x86)/Steam/steamapps/common/ProjectZomboid/media/tile_definitions/jumbo_trees.tiles"
+2026-11-25 11:34:56.230 [INFO] [pid:46792 thread:79b4] Tileset readiness check: requested 545 load-attempts 538 loaded 538 missing 7 pending 0
+2026-11-25 11:34:56.230 [WARNING] [pid:46792 thread:79b4] Missing tileset images (7): alokin_test_sheet, bed_overlays_large, blends_natural_01_TEST, camping_03 (ayrton orio's conflicted copy 2025-09-10), camping_04_on, floors_overlay_wood_01, location_orphanage
+2026-11-25 11:34:56.234 [INFO] [pid:46792 thread:79b4] WorldEd loaded the complete tileset catalog before project startup: 545 entries
+2026-11-25 11:34:56.257 [INFO] [pid:46792 thread:79b4] Tileset image cache: 538 sheets, 49605 tiles, 39890 nonempty images, 38570 unique pixel buffers, 1690.1 MiB logical, 1653.8 MiB resident, 0.0 MiB retained CPU atlases, 1320 exact duplicates sharing 36.2 MiB
+2026-11-25 11:34:56.950 [INFO] [pid:46792 thread:79b4] World project composition: cells 4, lots 0, objects 0, InGameMap features 0
+2026-11-25 11:34:57.009 [DEBUG] [pid:46792 thread:79b4] current document was  QObject(0x0)  is becoming  WorldDocument(0x25ce9503e90)
+2026-11-25 11:34:57.020 [INFO] [pid:46792 thread:79b4] Main-window geometry restored: true
+2026-11-25 11:34:57.072 [INFO] [pid:46792 thread:79b4] Main-window dock layout restored: true
+2026-11-25 11:34:57.072 [INFO] [pid:46792 thread:79b4] Startup main-window size: QSize(1920, 1080) requested, QSize(1920, 1032) available-screen fit
+2026-11-25 11:34:57.072 [INFO] [pid:46792 thread:79b4] WorldEd interactive startup tasks complete
+2026-11-25 11:34:57.085 [INFO] [pid:46792 thread:79b4] Dock dimensions restored: left 336 right 200 left heights 449 449 right heights 581 338
+2026-11-25 11:37:11.452 [INFO] [pid:46792 thread:79b4] BMP to TMX generation tilesets ready: 18 required by rules and blends
+2026-11-25 11:37:11.638 [DEBUG] [pid:46792 thread:79b4] LotsModel::cellContentsAboutToChange QPoint(0,0) (mine is QPoint(0,0) )
+2026-11-25 11:37:11.638 [DEBUG] [pid:46792 thread:79b4] LotsModel::cellContentsAboutToChange QPoint(1,0) (mine is QPoint(0,0) )
+2026-11-25 11:37:11.638 [DEBUG] [pid:46792 thread:79b4] LotsModel::cellContentsAboutToChange QPoint(0,1) (mine is QPoint(0,0) )
+2026-11-25 11:37:11.638 [DEBUG] [pid:46792 thread:79b4] LotsModel::cellContentsAboutToChange QPoint(1,1) (mine is QPoint(0,0) )
+2026-11-25 11:38:23.674 [INFO] [pid:46792 thread:79b4] World project composition: cells 1, lots 0, objects 0, InGameMap features 0
+2026-11-25 11:38:23.720 [DEBUG] [pid:46792 thread:79b4] current document was  WorldDocument(0x25ce9503e90)  is becoming  WorldDocument(0x25d0f662f30)
+2026-11-25 11:38:34.611 [INFO] [pid:46792 thread:79b4] BMP to TMX generation tilesets ready: 18 required by rules and blends
+2026-11-25 11:38:34.676 [DEBUG] [pid:46792 thread:79b4] LotsModel::cellContentsAboutToChange QPoint(0,0) (mine is QPoint(0,0) )
+2026-11-25 11:39:34.429 [DEBUG] [pid:46792 thread:79b4] current document was  WorldDocument(0x25d0f662f30)  is becoming  WorldDocument(0x25ce9503e90)
+2026-11-25 11:42:09.607 [INFO] [pid:46792 thread:79b4] Zombie Heatmap loaded: "C:/pz-regiao-carbonifera/output/centro/zombiespawn.png" QSize(64, 64) expected QSize(64, 64) grid "native-256" raw red-channel; B42 preview x40
+2026-11-25 11:42:09.624 [INFO] [pid:46792 thread:79b4] LOT export geometry: grid "native-256" source-cell-size 256 world-origin QPoint(100,100) world-size QSize(2, 2) output-cell-bounds QRect(100,100 2x2)
+2026-11-25 11:42:09.624 [INFO] [pid:46792 thread:79b4] LOT export inputs: source TMX cells 4 placed TBX lots 0
+2026-11-25 11:42:09.760 [INFO] [pid:46792 thread:79b4] Lot generation workers: 4 for 12 logical processors, maximum 12
+2026-11-25 11:42:09.896 [INFO] [pid:46792 thread:79b4] Loading complete ordered TMX tileset header: 545 declared, 0 used "C:/pz-regiao-carbonifera/mapping/tmx/centro/terreno_0_0.tmx"
+2026-11-25 11:42:09.896 [INFO] [pid:46792 thread:79b4] Tileset readiness check: requested 545 load-attempts 0 loaded 538 missing 7 pending 0
+2026-11-25 11:42:09.896 [WARNING] [pid:46792 thread:79b4] Missing tileset images (7): alokin_test_sheet, bed_overlays_large, blends_natural_01_TEST, camping_03 (ayrton orio's conflicted copy 2025-09-10), camping_04_on, floors_overlay_wood_01, location_orphanage
+2026-11-25 11:42:09.909 [INFO] [pid:46792 thread:79b4] Loading complete ordered TMX tileset header: 545 declared, 0 used "C:/pz-regiao-carbonifera/mapping/tmx/centro/terreno_1_0.tmx"
+2026-11-25 11:42:09.909 [INFO] [pid:46792 thread:79b4] Tileset readiness check: requested 545 load-attempts 0 loaded 538 missing 7 pending 0
+2026-11-25 11:42:09.909 [WARNING] [pid:46792 thread:79b4] Missing tileset images (7): alokin_test_sheet, bed_overlays_large, blends_natural_01_TEST, camping_03 (ayrton orio's conflicted copy 2025-09-10), camping_04_on, floors_overlay_wood_01, location_orphanage
+2026-11-25 11:42:09.921 [INFO] [pid:46792 thread:79b4] Loading complete ordered TMX tileset header: 545 declared, 0 used "C:/pz-regiao-carbonifera/mapping/tmx/centro/terreno_0_1.tmx"
+2026-11-25 11:42:09.921 [INFO] [pid:46792 thread:79b4] Tileset readiness check: requested 545 load-attempts 0 loaded 538 missing 7 pending 0
+2026-11-25 11:42:09.921 [WARNING] [pid:46792 thread:79b4] Missing tileset images (7): alokin_test_sheet, bed_overlays_large, blends_natural_01_TEST, camping_03 (ayrton orio's conflicted copy 2025-09-10), camping_04_on, floors_overlay_wood_01, location_orphanage
+2026-11-25 11:42:09.932 [INFO] [pid:46792 thread:79b4] Loading complete ordered TMX tileset header: 545 declared, 0 used "C:/pz-regiao-carbonifera/mapping/tmx/centro/terreno_1_1.tmx"
+2026-11-25 11:42:09.932 [INFO] [pid:46792 thread:79b4] Tileset readiness check: requested 545 load-attempts 0 loaded 538 missing 7 pending 0
+2026-11-25 11:42:09.932 [WARNING] [pid:46792 thread:79b4] Missing tileset images (7): alokin_test_sheet, bed_overlays_large, blends_natural_01_TEST, camping_03 (ayrton orio's conflicted copy 2025-09-10), camping_04_on, floors_overlay_wood_01, location_orphanage
+2026-11-25 11:42:10.984 [DEBUG] [pid:46792 thread:79b4] LotFilesManager256: Stopping threads
+2026-11-25 11:42:10.984 [DEBUG] [pid:46792 thread:79b4] LotFilesManager256: quitting thread # 0
+2026-11-25 11:42:10.984 [DEBUG] [pid:46792 thread:79b4] LotFilesManager256: quitting thread # 1
+2026-11-25 11:42:10.984 [DEBUG] [pid:46792 thread:79b4] LotFilesManager256: quitting thread # 2
+2026-11-25 11:42:10.984 [DEBUG] [pid:46792 thread:79b4] LotFilesManager256: quitting thread # 3
+2026-11-25 11:42:10.984 [DEBUG] [pid:46792 thread:849c] LotFilesManager256: worker thread finished # 0
+2026-11-25 11:42:10.984 [DEBUG] [pid:46792 thread:42d8] LotFilesManager256: worker thread finished # 2
+2026-11-25 11:42:10.984 [DEBUG] [pid:46792 thread:ad30] LotFilesManager256: worker thread finished # 3
+2026-11-25 11:42:10.984 [DEBUG] [pid:46792 thread:c0fc] LotFilesManager256: worker thread finished # 1
+2026-11-25 11:42:11.066 [DEBUG] [pid:46792 thread:79b4] LotFilesManager256: Stopped threads
+2026-11-25 11:42:11.080 [INFO] [pid:46792 thread:79b4] LOT export complete: output cells 4, buildings 0, rooms 0, room rects 0, room objects 0, reported issues 0

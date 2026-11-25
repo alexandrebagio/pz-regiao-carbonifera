@@ -1,0 +1,11 @@
+2026-11-25 13:36:16.982 [INFO] [pid:35296 thread:4bcc] Logging to C:\pz\PZTools\43.00B261119d\settings\logs\PZWorldEd-20261125-133616-979-35296.log
+2026-11-25 13:36:16.982 [INFO] [pid:35296 thread:4bcc] Installation root C:\pz\PZTools\43.00B261119d
+2026-11-25 13:36:16.982 [INFO] [pid:35296 thread:4bcc] Application configuration C:\pz\PZTools\43.00B261119d\config
+2026-11-25 13:36:16.982 [INFO] [pid:35296 thread:4bcc] Settings file C:\pz\PZTools\43.00B261119d\settings\TheIndieStone\PZWorldEd.ini
+2026-11-25 13:36:16.982 [INFO] [pid:35296 thread:4bcc] Machine OS: Windows 10 Version 2009 | kernel: winnt 10.0.26300 | architecture: x86_64
+2026-11-25 13:36:16.983 [INFO] [pid:35296 thread:4bcc] Machine CPU: 13th Gen Intel(R) Core(TM) i7-1355U | logical processors: 12
+2026-11-25 13:36:16.983 [INFO] [pid:35296 thread:4bcc] Machine RAM: total 31.7 GiB | available at startup: 15.2 GiB
+2026-11-25 13:36:16.983 [INFO] [pid:35296 thread:4bcc] Machine GPU/display adapters: Intel(R) Iris(R) Xe Graphics [active]
+2026-11-25 13:36:16.983 [INFO] [pid:35296 thread:4bcc] Runtime: Qt 5.14.2 | Qt build ABI: x86_64-little_endian-llp64 | process: 64 bit
+2026-11-25 13:36:16.983 [INFO] [pid:35296 thread:4bcc] Application Build 20261119d
+2026-11-25 13:36:17.398 [INFO] [pid:35296 thread:4bcc] LOT source conversion completed: 4 cell(s)

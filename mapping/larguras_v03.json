@@ -1,0 +1,62 @@
+{
+  "footway": {
+    "segmentos": 28,
+    "min_tiles": 2.0,
+    "max_tiles": 2.0
+  },
+  "living_street": {
+    "segmentos": 2,
+    "min_tiles": 8.0,
+    "max_tiles": 8.0
+  },
+  "path": {
+    "segmentos": 1,
+    "min_tiles": 2.0,
+    "max_tiles": 2.0
+  },
+  "pedestrian": {
+    "segmentos": 4,
+    "min_tiles": 2.0,
+    "max_tiles": 2.0
+  },
+  "primary": {
+    "segmentos": 32,
+    "min_tiles": 14.0,
+    "max_tiles": 14.0
+  },
+  "primary_link": {
+    "segmentos": 6,
+    "min_tiles": 10.0,
+    "max_tiles": 10.0
+  },
+  "residential": {
+    "segmentos": 144,
+    "min_tiles": 8.0,
+    "max_tiles": 8.0
+  },
+  "secondary": {
+    "segmentos": 24,
+    "min_tiles": 12.0,
+    "max_tiles": 12.0
+  },
+  "service": {
+    "segmentos": 113,
+    "min_tiles": 8.0,
+    "max_tiles": 8.0
+  },
+  "steps": {
+    "segmentos": 6,
+    "min_tiles": 2.0,
+    "max_tiles": 2.0
+  },
+  "tertiary": {
+    "segmentos": 48,
+    "min_tiles": 10.0,
+    "max_tiles": 10.0
+  },
+  "tertiary_link": {
+    "segmentos": 2,
+    "min_tiles": 8.0,
+    "max_tiles": 8.0
+  }
+}

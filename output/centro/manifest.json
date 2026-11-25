@@ -1,0 +1,271 @@
+{
+  "nome": "Centro de Criciúma",
+  "config": {
+    "nome": "Centro de Criciúma",
+    "referencia": "Praça Nereu Ramos",
+    "centro": {
+      "latitude": -28.6779947,
+      "longitude": -49.3694314,
+      "osm_type": "way",
+      "osm_id": 165773276,
+      "fonte": "https://www.openstreetmap.org/way/165773276",
+      "metodo": "Ponto retornado pelo Nominatim para Praça Nereu Ramos, Centro, Criciúma, Santa Catarina, Brasil"
+    },
+    "tiles": 1024,
+    "tiles_por_celula": 256,
+    "metros_por_tile": 1.5,
+    "crs_metrico": "EPSG:32722",
+    "largura_minima_rua_tiles": 8,
+    "largura_minima_caminho_tiles": 2,
+    "margem_consulta_m": 80,
+    "build_alvo": "42.22",
+    "overpass_url": "https://overpass-api.de/api"
+  },
+  "gerado_utc": "2026-11-25T17:17:56.615272+00:00",
+  "osm": {
+    "snapshot_utc": "2026-11-25T13:44:11.765413+00:00",
+    "query": {
+      "bounds_utm": [
+        658550.664844086,
+        6825832.863193411,
+        660086.664844086,
+        6827368.863193411
+      ],
+      "crs": "EPSG:32722",
+      "margin_m": 80,
+      "tags": {
+        "highway": true,
+        "building": true,
+        "leisure": [
+          "park",
+          "garden"
+        ],
+        "landuse": [
+          "grass",
+          "forest",
+          "meadow",
+          "recreation_ground",
+          "village_green"
+        ],
+        "natural": [
+          "water",
+          "wood",
+          "grassland",
+          "scrub",
+          "wetland"
+        ],
+        "waterway": [
+          "river",
+          "stream",
+          "canal",
+          "drain"
+        ],
+        "amenity": [
+          "parking"
+        ]
+      }
+    },
+    "overpass_url": "https://overpass-api.de/api",
+    "attribution": "© OpenStreetMap contributors",
+    "license": "https://www.openstreetmap.org/copyright",
+    "note": "Horário da consulta; o instante de atualização da base OSM pode ser anterior.",
+    "snapshot": "data\\raw\\osm_324bc064ef6559ce.geojson",
+    "sha256": "34bba76c2f9f2c52b91d7bb870a99e56693d48e5dd149333b83e04bf415a5288"
+  },
+  "geografia": {
+    "crs": "EPSG:32722",
+    "bounds_utm": [
+      658550.664844086,
+      6825832.863193411,
+      660086.664844086,
+      6827368.863193411
+    ],
+    "affine_pixel_to_utm": [
+      1.5,
+      0.0,
+      658550.664844086,
+      0.0,
+      -1.5,
+      6827368.863193411
+    ],
+    "lado_real_m": 1536.0,
+    "orientacao": "origem NO; x leste; y sul; norte para cima"
+  },
+  "contagens": {
+    "feicoes_osm_no_recorte": 1037,
+    "segmentos_ruas_caminhos": 410,
+    "poligonos_edificios": 520,
+    "edificios_menores_que_16_tiles2": 24
+  },
+  "classes": [
+    {
+      "id": 0,
+      "nome": "fundo_provisorio",
+      "rgb": [
+        117,
+        117,
+        47
+      ],
+      "pixels": 735187
+    },
+    {
+      "id": 1,
+      "nome": "verde",
+      "rgb": [
+        90,
+        100,
+        35
+      ],
+      "pixels": 16117
+    },
+    {
+      "id": 2,
+      "nome": "asfalto",
+      "rgb": [
+        100,
+        100,
+        100
+      ],
+      "pixels": 293571
+    },
+    {
+      "id": 3,
+      "nome": "caminho",
+      "rgb": [
+        80,
+        80,
+        80
+      ],
+      "pixels": 2436
+    },
+    {
+      "id": 4,
+      "nome": "agua",
+      "rgb": [
+        0,
+        138,
+        255
+      ],
+      "pixels": 1265
+    }
+  ],
+  "paleta_fonte": "https://github.com/Unjammer/PZ_Mapping_Tools/blob/7ebfa7a6644f8652a81de35bf86d2fa4153bedb1/WorldEd/Rules.txt",
+  "vegetacao": "RGB preto = sem vegetação explícita neste protótipo; não é biomemap B42",
+  "celulas": [
+    {
+      "x_local": 0,
+      "y_local": 0,
+      "terreno": "celulas/centro_0_0.png",
+      "vegetacao": "celulas/centro_0_0_veg.png"
+    },
+    {
+      "x_local": 1,
+      "y_local": 0,
+      "terreno": "celulas/centro_1_0.png",
+      "vegetacao": "celulas/centro_1_0_veg.png"
+    },
+    {
+      "x_local": 2,
+      "y_local": 0,
+      "terreno": "celulas/centro_2_0.png",
+      "vegetacao": "celulas/centro_2_0_veg.png"
+    },
+    {
+      "x_local": 3,
+      "y_local": 0,
+      "terreno": "celulas/centro_3_0.png",
+      "vegetacao": "celulas/centro_3_0_veg.png"
+    },
+    {
+      "x_local": 0,
+      "y_local": 1,
+      "terreno": "celulas/centro_0_1.png",
+      "vegetacao": "celulas/centro_0_1_veg.png"
+    },
+    {
+      "x_local": 1,
+      "y_local": 1,
+      "terreno": "celulas/centro_1_1.png",
+      "vegetacao": "celulas/centro_1_1_veg.png"
+    },
+    {
+      "x_local": 2,
+      "y_local": 1,
+      "terreno": "celulas/centro_2_1.png",
+      "vegetacao": "celulas/centro_2_1_veg.png"
+    },
+    {
+      "x_local": 3,
+      "y_local": 1,
+      "terreno": "celulas/centro_3_1.png",
+      "vegetacao": "celulas/centro_3_1_veg.png"
+    },
+    {
+      "x_local": 0,
+      "y_local": 2,
+      "terreno": "celulas/centro_0_2.png",
+      "vegetacao": "celulas/centro_0_2_veg.png"
+    },
+    {
+      "x_local": 1,
+      "y_local": 2,
+      "terreno": "celulas/centro_1_2.png",
+      "vegetacao": "celulas/centro_1_2_veg.png"
+    },
+    {
+      "x_local": 2,
+      "y_local": 2,
+      "terreno": "celulas/centro_2_2.png",
+      "vegetacao": "celulas/centro_2_2_veg.png"
+    },
+    {
+      "x_local": 3,
+      "y_local": 2,
+      "terreno": "celulas/centro_3_2.png",
+      "vegetacao": "celulas/centro_3_2_veg.png"
+    },
+    {
+      "x_local": 0,
+      "y_local": 3,
+      "terreno": "celulas/centro_0_3.png",
+      "vegetacao": "celulas/centro_0_3_veg.png"
+    },
+    {
+      "x_local": 1,
+      "y_local": 3,
+      "terreno": "celulas/centro_1_3.png",
+      "vegetacao": "celulas/centro_1_3_veg.png"
+    },
+    {
+      "x_local": 2,
+      "y_local": 3,
+      "terreno": "celulas/centro_2_3.png",
+      "vegetacao": "celulas/centro_2_3_veg.png"
+    },
+    {
+      "x_local": 3,
+      "y_local": 3,
+      "terreno": "celulas/centro_3_3.png",
+      "vegetacao": "celulas/centro_3_3_veg.png"
+    }
+  ],
+  "versoes_python": {
+    "osmnx": "2.2.0",
+    "geopandas": "1.2.0",
+    "shapely": "2.2.0",
+    "pyproj": "3.8.0",
+    "rasterio": "1.5.2",
+    "pillow": "12.3.0",
+    "numpy": "2.5.5"
+  },
+  "limitacoes": [
+    "Imagens e contornos, ainda não um mod jogável ou TMX.",
+    "Paleta baseada no Rules.txt citado; conferir o Rules.txt da instalação antes de importar.",
+    "Compatibilidade de exportação para 42.22 ainda não validada no WorldEd/jogo.",
+    "Fundo é grama provisória; ausência de edifícios no OSM não significa terreno vazio.",
+    "Larguras ajustadas para jogabilidade; edifícios pequenos ainda exigem modelos.",
+    "Pontes e túneis lineares omitidos: precisam de níveis e revisão manual.",
+    "Caminhos e leitos de água usam superfícies/larguras provisórias.",
+    "Coordenadas de células são locais; localização global no jogo ainda não definida."
+  ]
+}

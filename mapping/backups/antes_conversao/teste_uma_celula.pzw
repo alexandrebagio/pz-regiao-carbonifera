@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<world version="1.0" width="1" height="1" cellFormat="native-256">
+ <BMPToTMX>
+  <tmxexportdir path="tmx/teste" />
+  <rulesfile path="../../pz/PZTools/43.00B261119d/config/Rules.txt" />
+  <blendsfile path="../../pz/PZTools/43.00B261119d/config/Blends.txt" />
+  <mapbasefile path="../../pz/PZTools/43.00B261119d/config/MapBaseXML.txt" />
+  <assign-maps-to-world checked="true" />
+  <warn-unknown-colors checked="true" />
+  <repair-unknown-colors checked="false" />
+  <compress checked="true" />
+  <copy-pixels checked="true" />
+  <update-existing checked="false" />
+  <metadata-only checked="false" />
+ </BMPToTMX>
+ <bmp path="../output/centro/celulas/centro_0_0.png" x="0" y="0" width="1" height="1" />
+</world>
